@@ -1,0 +1,200 @@
+#first{
+    position: absolute;
+    width: 30%;
+    background-color: red;
+    top: 0;
+    left: 0;
+    height: 20%;
+}
+#second{
+    position: absolute;
+    width: 30%;
+    background-color: rgb(26, 18, 18);
+    top: 20%;
+    left: 0;
+    height: 20%;
+}
+#third{
+    position: absolute;
+    width: 70%;
+    background-color: rgb(161, 70, 70);
+    top: 0;
+    left: 30%;
+    height: 6.7%;
+}
+#fourth{
+     position: absolute;
+    width: 70%;
+    background-color: rgb(5, 4, 4);
+    top: 6.7%;
+    left: 30%;
+    height: 6.7%;
+}
+#fifth{
+     position: absolute;
+    width: 70%;
+    background-color: rgb(79, 162, 78);
+    top: 13.2%;
+    left: 30%;
+    height: 6.7%;
+}
+#sixth{
+     position: absolute;
+    width: 70%;
+    background-color: rgb(177, 38, 38);
+    top: 19.9%;
+    left: 30%;
+    height: 6.7%;
+}
+#seventh{
+     position: absolute;
+    width: 70%;
+    background-color: rgb(160, 27, 104);
+    top: 26.6%;
+    left: 30%;
+    height: 6.7%;
+}
+#eight{
+     position: absolute;
+    width: 70%;
+    background-color: rgb(116, 54, 216);
+    top: 33.3%;
+    left: 30%;
+    height: 6.7%;
+}
+#ninth{
+    position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 0;
+    height: 20%;
+    background-color: black;
+}
+#tenth{
+     position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 12.5%;
+    height: 20%;
+    background-color: rgb(134, 87, 87);
+}
+#eleventh{
+     position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 25%;
+    height: 20%;
+    background-color: rgb(184, 66, 66);
+}
+#twelfth{
+    position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 37.5%;
+    height: 20%;
+    background-color: rgb(211, 48, 48);
+}
+#thirteenth{
+     position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 50%;
+    height: 20%;
+    background-color: rgb(91, 117, 93);
+}
+#fourteenth{
+    position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 62.5%;
+    height: 20%;
+    background-color: rgb(71, 75, 71);
+}
+#fifteenth{
+   position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 75%;
+    height: 20%;
+    background-color: rgb(80, 149, 80); 
+}
+#sixteenth{
+  position: absolute;
+    width: 12.5%;
+    top: 40%;
+    left: 87.5%;
+    height: 20%;
+    background-color: rgb(38, 198, 38);   
+}
+#seventeenth{
+position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 0;
+    height: 20%;
+    background-color: rgb(38, 198, 38);   
+}
+#eighteenth{
+    position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 12.5%;
+    height: 20%;
+    background-color: rgb(198, 139, 38);
+}
+#nineteenth{
+    position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 25%;
+    height: 20%;
+    background-color: rgb(6, 6, 6);
+}
+#twentieth{
+    position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 37.5%;
+    height: 20%;
+    background-color: rgb(136, 63, 63);
+}
+#hydrogen{
+    position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 50%;
+    height: 20%;
+    background-color: rgb(225, 51, 51);
+}
+#helium{
+     position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 62.5%;
+    height: 20%;
+    background-color: rgb(255, 2, 2);
+}
+#beryllium{
+   position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 75%;
+    height: 20%;
+    background-color: rgb(74, 2, 255); 
+}
+#lithium{
+     position: absolute;
+    width: 12.5%;
+    top: 60%;
+    left: 87.5%;
+    height: 20%;
+    background-color: rgb(98, 82, 139); 
+}
+#sulphur{
+    position: absolute;
+    width: 100%;
+    top: 80%;
+    background-color: rgb(118, 118, 138);
+    left: 0;
+    height: 20%;
+}
